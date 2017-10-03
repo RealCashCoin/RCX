@@ -1,5 +1,5 @@
 
-## Building HumanitaryCoin
+## Building RealCash Coin
 
 ### On *nix
 
@@ -18,8 +18,8 @@ To build, change to a directory where this file is located, and run `make`. The 
 
         sudo apt-get update
         sudo apt-get install git cmake make gcc libboost1.55-all-dev
-        git clone https://github.com/humanitarycoin/hcn.git
-        cd hcn
+        git clone https://github.com/RealCashCoin/rcx.git
+        cd rcx
         make
 
 **Advanced options:**
